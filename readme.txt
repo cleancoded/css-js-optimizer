@@ -2,7 +2,7 @@
 
 Contributors: cleancoded
 Plugin Name: Inline HTML, CSS & Javascript Minifier
-Plugin URI: https://github.com/cleancoded/css_js_optimize
+Plugin URI: https://github.com/cleancoded/css-js-optimizer
 Author URI: http://cleancoded.com
 Author: Digital Outback
 Tested up to: 4.9.8
